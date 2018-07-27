@@ -11,6 +11,7 @@ You can try it :
 ## Examples Notebooks
 1. Bernoulli ([notebook](examples/bernoulli.ipynb) | [model](examples/bernoulli.stan))
 2. Linear Regression ([notebook](examples/linear.ipynb) | [model](examples/linear.stan))
+2. Seven Scientists ([notebook](examples/7scientists.ipynb) | [model](examples/7scientists.stan))
 
 ## Further Resources
 * [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/) by Andrew Gelman et al. ([R](https://github.com/avehtari/BDA_R_demos) or [Python](https://github.com/avehtari/BDA_py_demos))
