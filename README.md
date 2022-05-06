@@ -18,7 +18,6 @@ You can try it :
 * Bayesian Cognitive Modeling ([link](https://bayesmodels.com/))
 * Probabilistic Programming & Bayesian Methods for Hackers ([link](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/))
 * Bayesian Analysis for the Social Sciences by Simon Jackman ([link](https://www.wiley.com/en-us/Bayesian+Analysis+for+the+Social+Sciences-p-9780470011546))
-* Stan Hands-on with Bob Carpenter ([video](https://www.youtube.com/watch?v=6NXRCtWQNMg))
 
 
 ## Other Probabilistic Programming Languages
