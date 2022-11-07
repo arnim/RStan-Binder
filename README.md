@@ -28,3 +28,10 @@ You can try it :
 * ... and [many more](https://en.wikipedia.org/wiki/Probabilistic_programming_language#List_of_probabilistic_programming_languages)
 
 Furthermore, of historical relevance are [BUGS](https://www.mrc-bsu.cam.ac.uk/software/bugs/) and [JAGS](http://mcmc-jags.sourceforge.net/). 
+
+
+---
+
+Funded by the German Research Foundation (DFG).
+FKZ/project number:
+[324867496](https://gepris.dfg.de/gepris/projekt/324867496?context=projekt&task=showDetail&id=324867496&).
